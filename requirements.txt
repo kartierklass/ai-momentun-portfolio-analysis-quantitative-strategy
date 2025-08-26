@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+yfinance
+
+# How to use this file:
+# Anyone can now install all dependencies with:
+# pip install -r requirements.txt
+
