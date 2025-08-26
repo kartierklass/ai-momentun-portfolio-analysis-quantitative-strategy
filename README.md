@@ -29,7 +29,8 @@ A key outcome of this project was the practical demonstration of **overfitting**
 Upgrading to an XGBoost model produced a more realistic and healthier result, reducing overfitting (Training R² of 0.47) and improving test performance. However, the final backtest confirmed that even this improved model did not outperform the benchmark. This is a realistic outcome in quantitative finance and highlights that the primary value of this project is the **framework itself**—a powerful tool for rapidly prototyping and validating new ideas.
 
 ### Final Performance Backtest
-**
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/b274f574-94b6-40ec-be1b-93ba47c2e603" />
+
 
 ---
 
@@ -38,7 +39,8 @@ Upgrading to an XGBoost model produced a more realistic and healthier result, re
 Using XGBoost's built-in feature importance, we analyzed the "brain" of our best-performing model. The analysis revealed that long-term momentum and recent volatility were the most influential factors in its decision-making process. This step moves beyond a "black box" approach to provide crucial insights into the model's behavior.
 
 ### Feature Importance Analysis
-**
+<img width="1186" height="789" alt="image" src="https://github.com/user-attachments/assets/6de5776c-71e9-4f07-821e-54f48cc5536f" />
+
 
 ---
 
